@@ -20,10 +20,11 @@ brew install tmux
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-## Mappings
+## Custom Mappings
 
 Prefix: `ctrl+space`
 
-Navigate panes: `ctrl+h|j|k|l`
+Window navigation (no prefix): `Shift-Left` and `Shift-Right`
 
-Navigate windows: `Shift+Alt+H` and `Shift+Alt+L`
+Pane navigation (no prefix): `option+h|j|k|l` (option vim-keys)
+
