@@ -1,6 +1,8 @@
 # tmux
 Starting point came from: https://youtu.be/DzNmUNvnB04
 
+[Tmux Cheatsheet](https://tmuxcheatsheet.com/)
+
 ## Install
 ```
 git clone https://github.com/mattcramblett/tmux-config.git ~/.config/tmux
