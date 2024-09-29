@@ -26,5 +26,5 @@ Prefix: `ctrl+space`
 
 Window navigation (no prefix): `Shift-Left` and `Shift-Right`
 
-Pane navigation (no prefix): `option+h|j|k|l` (option vim-keys)
+Pane navigation (prefix): `h|j|k|l` (vim-keys)
 
