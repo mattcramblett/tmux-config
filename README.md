@@ -1,14 +1,17 @@
 # tmux
+
 Starting point came from: https://youtu.be/DzNmUNvnB04
 
 [Tmux Cheatsheet](https://tmuxcheatsheet.com/)
 
 ## Install
+
 ```
 git clone https://github.com/mattcramblett/tmux-config.git ~/.config/tmux
 ```
 
 ## Requirements
+
 ```
 # install tmux
 brew install tmux
@@ -18,11 +21,9 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
 ## Mappings
+
 Prefix: `ctrl+space`
 
 Navigate panes: `ctrl+h|j|k|l`
 
 Navigate windows: `Shift+Alt+H` and `Shift+Alt+L`
-
-
-
