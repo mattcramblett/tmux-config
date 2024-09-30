@@ -23,7 +23,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ## Getting Started
 
 Run with `tmux` and if the bottom bar is the default lime green, run:
-`<prefix>:source-file ~/.conf/tmux/tmux`
+`<prefix>:source-file ~/.conf/tmux/tmux.conf`
 And `<prefix>I` to install plugins.
 
 ## Custom Mappings
