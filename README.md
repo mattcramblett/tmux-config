@@ -36,7 +36,7 @@ Pane navigation (prefix): `h|j|k|l` (vim-keys)
 
 Resize panes: `Shift + Alt + Arrow Keys`
 
-## Handy fefault mapping reminders
+## Handy default mapping reminders
 "Zoom" a pane (focus and hide others) `prefix z` (unzoom is same keymap)
 
 
