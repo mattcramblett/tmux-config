@@ -33,3 +33,10 @@ Prefix: `ctrl+space`
 Window navigation (no prefix): `Shift-Left` and `Shift-Right`
 
 Pane navigation (prefix): `h|j|k|l` (vim-keys)
+
+Resize panes: `Shift + Alt + Arrow Keys`
+
+## Handy fefault mapping reminders
+"Zoom" a pane (focus and hide others) `prefix z` (unzoom is same keymap)
+
+
