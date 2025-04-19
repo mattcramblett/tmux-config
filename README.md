@@ -18,6 +18,9 @@ brew install tmux
 
 # install package manager
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
+# install session manager
+gem install tmuxinator
 ```
 
 ## Getting Started
