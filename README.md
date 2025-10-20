@@ -26,7 +26,7 @@ gem install tmuxinator
 ## Getting Started
 
 Run with `tmux` and if the bottom bar is the default lime green, run:
-`<prefix>:source-file ~/.conf/tmux/tmux.conf`
+`<prefix>:source-file ~/.config/tmux/tmux.conf`
 And `<prefix>I` to install plugins.
 
 ## Custom Mappings
